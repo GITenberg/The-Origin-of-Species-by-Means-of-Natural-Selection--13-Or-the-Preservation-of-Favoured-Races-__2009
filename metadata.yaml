@@ -1,0 +1,32 @@
+_repo: The-Origin-of-Species-by-Means-of-Natural-Selection--13-Or-the-Preservation-of-Favoured-Races-__2009
+_version: 0.0.1
+alternative_title: On the origin of species
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+description: See also PG#1228 for the First Edition
+gutenberg_bookshelf:
+- Harvard Classics
+- Biology
+gutenberg_issued: '1999-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2009'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Natural selection'
+- !lcsh 'Evolution (Biology)'
+- GITenberg
+title: "The Origin of Species by Means of Natural Selection\r\nOr, the Preservation\
+  \ of Favoured Races in the Struggle for Life, 6th Edition"
+url: http://www.gutenberg.org/ebooks/2009
