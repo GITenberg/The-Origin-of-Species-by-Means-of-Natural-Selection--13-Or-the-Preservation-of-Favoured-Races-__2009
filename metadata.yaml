@@ -1,6 +1,9 @@
 _repo: The-Origin-of-Species-by-Means-of-Natural-Selection--13-Or-the-Preservation-of-Favoured-Races-__2009
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: On the origin of species
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Darwin, Charles
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/485
     wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
 description: See also PG#1228 for the First Edition
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2009#The-Origin-of-Species-by-Means-of-Natural-Selection--13-Or-the-Preservation-of-Favoured-Races-_
 gutenberg_bookshelf:
 - Harvard Classics
 - Biology
